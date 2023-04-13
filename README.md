@@ -20,10 +20,9 @@
   
  
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hun3431&show_icons=true&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hun3431&show_icons=true)
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hun3431&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hun3431&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=20193210)](https://solved.ac/20193210/)
 </div>
